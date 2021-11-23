@@ -1,0 +1,35 @@
+*{
+    font-family: roboto;
+    margin-left: 60px;
+}
+.todo{
+    background-color: transparent;
+    border-color: transparent;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 70px;
+    margin-left: 105px;
+}
+input{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color: black;
+    border-radius: 5px;
+    height: 45px;
+    width: 250px;
+}
+.add{
+    margin-left: 130px;
+    width: 120px;
+    height: 45px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.display{
+    font-size: xx-large;
+    margin-left: 0px;
+    margin-top: 30px;
+    font-weight:bold;
+}
